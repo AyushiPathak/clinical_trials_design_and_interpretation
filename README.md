@@ -31,7 +31,7 @@ Placebos help maintain blinding or masking in a study, which is important to min
 Placebos are often used as a control group against which the effects of the active treatment are compared. By administering placebos to a portion of the participants, researchers can establish a baseline against which they can measure the effectiveness of the experimental treatment. This helps in determining whether the observed effects are truly due to the treatment itself or simply placebo effects.
 > 
 
-![FactorialDesign](Images/Factorial Design.png)
+![FactorialDesign] (Images/Factorial Design.png)
 
 Graphically represented by a 2x2 table (pink)
 
