@@ -1,7 +1,6 @@
 # Clinical Trials
 
 PROJECTS: Courses (https://www.notion.so/Courses-9d179af0e5bd48478cb74e12279f7db2?pvs=21)
-Status: Inbox
 
 # WEEK 1
 
