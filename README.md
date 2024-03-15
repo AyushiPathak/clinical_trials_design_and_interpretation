@@ -32,6 +32,7 @@ Placebos are often used as a control group against which the effects of the acti
 > 
 
 ![Factorial Design.png](Clinical%20Trials%20af8b41f4a6e34fa5b4f4e1d228781752/Factorial_Design.png)
+https://github.com/AyushiPathak/clinical_trials_design_and_interpretation/blob/main/Images/Factorial%20Design.png
 
 Graphically represented by a 2x2 table (pink)
 
